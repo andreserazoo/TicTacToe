@@ -10,7 +10,7 @@ public enum GameState{
 NULL, O, X;
 }
 public enum GamePlayer{
-USER(GameState.X),
+USER(GameState.X),	
 COMPUTER(GameState.O),
 NOBODY(GameState.NULL);
 private GameState state;
