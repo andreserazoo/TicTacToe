@@ -7,7 +7,7 @@
 <title>Tricki 2025</title>
 </head>
 <body>
-<h1>Tricki</h1>
+<h1>Trickiii</h1>
 <form action="entryServlet" method="post">
 <input type="submit" name="Usuario" value="Empiezas tú"><br/>
 <input type="submit" name="Computadora" value="Empieza la computadora">
